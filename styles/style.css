@@ -1,0 +1,187 @@
+body{
+    background-color: #F3F1FF;
+} 
+.navbar{
+    background-color: #562EFF;
+}
+.brand-logo{
+    width: 40.42px;
+    height: 51px;
+ 
+}
+.idea{
+    width: 54px;
+    height: 36px;
+    font-family: 'Poppins';
+    color: white;
+    margin-left: 5px;
+}
+.player img{
+    width: 56px;
+    height: 56px;
+}
+.player-name{
+    margin-left: 15px;
+    margin-top: 10px;
+}
+main{
+    max-width: 870px;
+    height: 640px;
+   
+}
+.top-player{
+    background-color: white;
+    height: 620px;
+}
+#header a{
+    color: white;
+   
+}
+#two-side{
+    margin-top: 30px;
+    border-radius: 5px;
+}
+#h3{
+    width: 125px;
+    height: 36px;
+    padding-top: 10px;
+    padding-left: 10px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    color: #562EFF;
+}
+#img1{
+    width: 224px;
+    height: 127px;
+   margin-top: 20px;
+   margin-left: 10px;
+   padding-right: 10px;
+   float: left;
+}
+#img2{
+    width: 224px;
+    height: 127px;
+   margin-top: 20px;
+   margin-left: 10px;
+   padding-right: 10px;
+   float: left;
+
+}
+#img3{
+    width: 224px;
+    height: 127px;
+   margin-top: 20px;
+   margin-left: 10px;
+   padding-right: 10px;
+   float: left;
+}
+#img4{
+    width: 224px;
+    height: 127px;
+   margin-top: 20px;
+   margin-left: 10px;
+   padding-right: 10px;
+   float: left;
+}
+#para{
+   margin-top: 25px;
+   color: black;
+   font-weight: 500;
+   font-size: 18px;
+}
+#h6{
+    color: #9F9F9F;
+    font-size: 14px;
+}
+#name{
+    color: #562EFF;   
+}
+#last-side{
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.last-player{
+    height: 400px;
+    background-color: white;
+}
+#lates{
+    width: 125px;
+    height: 36px;
+    padding-top: 10px;
+    padding-left: 10px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 21px;
+    line-height: 36px;
+    color: #562EFF;
+}
+.card-img-top{
+    height: 104px;
+    width: 224px;
+    margin-left: 15px;
+    margin-top: 15px;
+    
+}
+.card{
+    border: none;
+    filter: drop-shadow(0px 5.34229px 13.3557px rgba(0, 0, 0, 0.05));
+    border-radius: 15px;
+}
+.card-title{
+    font-size: 19px;
+    line-height: 30px;
+}
+
+
+.card-text{
+    font-size: 14.6913px;
+    color: #ED6B4F;
+}
+.card-footer{
+    background-color: white;
+    border: none;
+   
+}
+#card-footer{
+    border-radius: 15px;
+}
+
+#star img{
+    height:11px ;
+    width: 12px;
+    float: left;
+    margin-top: 3px;
+    margin-left: 2px;
+}
+#number{
+ float: left;
+ margin-left: 8px;
+
+}
+#clock{
+    width: 20px;
+    height: 20px;
+    float: left;
+    margin-top: 3px;
+}
+#time{
+    float:  left;
+    margin-left: 8px;
+    margin-bottom: 10px;
+    padding-top: 3px;
+    color: #FF4A60;
+    
+}
+#clock-time{
+    width: 105px;
+   padding-top: -4px;
+   height: 29px;
+    background-color:#FFE4E8;
+    border-radius: 14.6913px;
+    
+}
